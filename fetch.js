@@ -3,4 +3,3 @@ const load_Data=()=>{
     .then(response=>response.json())
     .then(data=>console.log(data))
 }
-load_Data()
